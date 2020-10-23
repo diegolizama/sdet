@@ -1,1 +1,9 @@
-hello world
+namespace Helloworld
+{
+class Hola {         
+static void Main(string[] args)
+{
+System.Console.WriteLine("hello world");
+}
+}
+}
